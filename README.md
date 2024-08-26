@@ -41,11 +41,11 @@ pip install psutil speechrecognition gradio langchain
 2. **Launch the Chatbot**: Run the jupyter notebook to start the Gradio interface.
 3. **Interact**: Use the Gradio interface to upload files, input text, or record audio. Atom will process the inputs and provide detailed responses.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or suggestions.
-
 ## UI
 
 ![MultiInputChatbot](https://github.com/abhijitchavda/MultiInputChatbot/blob/main/UI.jpg?raw=true)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or suggestions.
 
